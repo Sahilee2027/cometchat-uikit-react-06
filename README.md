@@ -60,7 +60,7 @@ A full **PDF report** is also included below.
 > Upload your generated PDF to `/assets/report.pdf` or rename accordingly.
 
 📘 **Full Report (PDF):**  
-[Click to open](./assets/CometChat_React_UI_Kit_Full_Report.pdf)
+[Click to open](./report/CometChat_React_UI_Kit_Full_Report.pdf)
 
 This PDF includes:
 
