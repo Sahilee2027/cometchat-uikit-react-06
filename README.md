@@ -46,9 +46,7 @@ A full **PDF report** is also included below.
 
 # 🎥 Demo Video
 
-> Upload your video to `/assets/video.mp4` or drag-and-drop into GitHub.
-
-🎬 **Add Demo Video Here:**  
+🎬 ** Demo Video Here:**  
 `./assets/video.mp4`
 
 *(This will be a screen-recording of the working React Sample App showing login, messaging, groups, UI behavior, etc.)*
